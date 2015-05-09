@@ -2,4 +2,6 @@ heelo world!
 
 Hi humans!
 
-Hubot here, I like Node.
+Hubot here, I like Nde.
+
+my name is wangcheng 
